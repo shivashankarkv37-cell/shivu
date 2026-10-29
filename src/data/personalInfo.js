@@ -1,0 +1,17 @@
+export const personalInfo = {
+  name: "Shivashankar KV",
+  firstName: "Shivashankar",
+  lastName: "KV",
+  title: "Java Backend Developer",
+  headline: "Java Backend Developer | Spring Boot | REST APIs | MySQL",
+  email: "shivashankarkv37@gmail.com",
+  location: "Karnataka, India",
+  githubUrl: "https://github.com/shivashankarkv37-cell",
+  linkedInUrl: "https://www.linkedin.com/in/shivashankar-kv",
+  resumeUrl: "/resume.pdf",
+  college: "Shree Medha Degree College",
+  university: "Vijayanagara Sri Krishnadevaraya University (VSKU)",
+  degree: "Bachelor of Computer Applications",
+  cgpa: "8.5",
+  expectedGraduation: "2027",
+};
